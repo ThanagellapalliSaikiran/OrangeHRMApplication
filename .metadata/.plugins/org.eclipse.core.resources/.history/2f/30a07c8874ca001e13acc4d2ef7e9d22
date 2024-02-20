@@ -1,0 +1,38 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>OrangeHRMApplication</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:55</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.AddEmployeeTest()[pri:7, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">AddEmployeeTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:55</td>   <td>-6</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.AddEmployeeWebPageTest()[pri:6, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">AddEmployeeWebPageTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="8ef0ea">  <td>24/02/13 19:03:00</td>   <td>4737</td> <td>&nbsp;</td><td title="&lt;&lt;BaseTest.applicationClose()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">&lt;&lt;applicationClose</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="8ef0ea">  <td>24/02/13 19:02:48</td>   <td>-7223</td> <td>&nbsp;</td><td title="&gt;&gt;BaseTest.applicationLaunch()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">&gt;&gt;applicationLaunch</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="aca48b">  <td>24/02/13 19:03:13</td>   <td>17537</td> <td>&nbsp;</td><td title="&lt;&lt;BaseTest.close()[pri:0, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">&lt;&lt;close</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:02:54</td>   <td>-1101</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.homePageTest()[pri:3, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">homePageTest</td> 
+  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:54</td>   <td>-1376</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.homePageTest()[pri:3, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">homePageTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:02:51</td>   <td>-3878</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logInPageTest()[pri:1, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">logInPageTest</td> 
+  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:51</td>   <td>-3878</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.logInPageTest()[pri:1, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">logInPageTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:02:51</td>   <td>-3778</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logInTest()[pri:2, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">logInTest</td> 
+  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:51</td>   <td>-3778</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.logInTest()[pri:2, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">logInTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:02:54</td>   <td>-953</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logOutTest()[pri:4, instance:com.OrangeHRMApplication_TestNG.LogInTest@bae7dc0]">logOutTest</td> 
+  <td>TestNG-tests-1@476424372</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:03:13</td>   <td>17439</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.personalDetailsTest()[pri:9, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">personalDetailsTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:03:13</td>   <td>17437</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.personalDetailsWebPageTest()[pri:8, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">personalDetailsWebPageTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:54</td>   <td>-739</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.pimAddEmployeeTest()[pri:5, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">pimAddEmployeeTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="d67f98">  <td>24/02/13 19:02:54</td>   <td>-1044</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="AddEmployeeTest_AutoIT.pimTest()[pri:4, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">pimTest</td> 
+  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+<tr bgcolor="aca48b">  <td>24/02/13 19:02:48</td>   <td>-7223</td> <td>&nbsp;</td><td title="&gt;&gt;BaseTest.setup()[pri:0, instance:com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT@73e9cf30]">&gt;&gt;setup</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-2@842516554</td>   <td></td> </tr>
+</table>

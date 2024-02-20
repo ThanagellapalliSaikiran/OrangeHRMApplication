@@ -1,0 +1,18 @@
+package com.BaseTest;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BaseTest {
+	
+	public static WebDriver driver;
+	
+	 String apilcationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+public void applicationLanch(){
+	System.setProperty("webdriver.chrome.driver", "./BrowserDriveFiles/chromedriver.exe");
+	driver=new ChromeDriver();
+	Log.("**** Chrome Browser Launched Successfully **********");
+	
+	
+}
+}

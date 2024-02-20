@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/excal/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="SeleniumLibray"/>
+	<classpathentry kind="lib" path="SeleniumLibray/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="SeleniumLibray/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/diobo/OneDrive/Desktop/drive-download-20231120T130549Z-001/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diobo/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

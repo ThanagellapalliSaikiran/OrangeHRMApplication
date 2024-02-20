@@ -1,0 +1,17 @@
+<suite name="OrangeHRMApplication" parallel="tests">
+   
+    <test name="LogInTest">
+        <classes>
+           <class name="com.OrengHRM.LogInTest"/>
+        </classes>
+   </test>
+   
+   
+   <test name="OrangeHRMApplication_AutoIT_excel">
+        <classes>
+           <class name="com.OrangeHRMApplication_AutoIT.AddEmployeeTest_AutoIT"/>
+        </classes>
+   </test>
+   
+   
+</suite>

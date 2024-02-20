@@ -1,0 +1,23 @@
+package Application_Lanching;
+
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BaseTest {
+	
+	public WebDriver driver;
+	String applicationUrlAddress="https://echoecho.com/htmlforms10.htm";
+
+	@Test
+	public void setUp()
+	{
+	System.setProperty("webdriver.chrome.driver", "./chromeBrowser/chromedriver.exe");
+
+	driver = new ChromeDriver();
+	driver.get(applicationUrlAddress);
+
+	driver.manage().window().maximize();
+
+
+}}

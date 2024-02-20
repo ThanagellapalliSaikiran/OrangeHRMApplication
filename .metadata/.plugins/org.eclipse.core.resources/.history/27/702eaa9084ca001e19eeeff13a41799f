@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T20:54:35 IST" name="OrangeHRMApplication" finished-at="2024-02-13T20:55:06 IST" duration-ms="31462">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T20:54:35 IST" name="LogInTest" finished-at="2024-02-13T20:54:48 IST" duration-ms="13411">
+      <class name="com.OrangeHRMApplication_TestNG.LogInTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:35 IST" name="applicationLaunch" finished-at="2024-02-13T20:54:38 IST" duration-ms="3127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="logInPageTest()[pri:1, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:38 IST" name="logInPageTest" finished-at="2024-02-13T20:54:38 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInPageTest -->
+        <test-method signature="logInTest()[pri:2, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:38 IST" name="logInTest" finished-at="2024-02-13T20:54:41 IST" duration-ms="2952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method signature="homePageTest()[pri:3, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:41 IST" name="homePageTest" finished-at="2024-02-13T20:54:41 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method signature="logOutTest()[pri:4, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:41 IST" name="logOutTest" finished-at="2024-02-13T20:54:47 IST" duration-ms="6028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]" started-at="2024-02-13T20:54:47 IST" name="applicationClose" finished-at="2024-02-13T20:54:48 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplication_TestNG.LogInTest -->
+    </test> <!-- LogInTest -->
+    <test started-at="2024-02-13T20:54:35 IST" name="OrangeHRMApplication_AutoIT_excel" finished-at="2024-02-13T20:55:06 IST" duration-ms="31462">
+      <class name="com.OrangeHRMApplication_AutoIT_excel">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:35 IST" name="applicationLaunch" finished-at="2024-02-13T20:54:38 IST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="logInPageTest()[pri:1, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:38 IST" name="logInPageTest" description="Validating OrangeHRM Application LogIn WebPage" finished-at="2024-02-13T20:54:38 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInPageTest -->
+        <test-method signature="logInTest()[pri:2, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:38 IST" name="logInTest" description="Validating OrangeHRM Application LogIn Functionality" finished-at="2024-02-13T20:54:43 IST" duration-ms="4779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method signature="homePageTest()[pri:3, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:43 IST" name="homePageTest" description="Validating OrangeHRM Application HomePage WebPage" finished-at="2024-02-13T20:54:43 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method signature="pimTest()[pri:4, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:43 IST" name="pimTest" description="Validating OrangeHRM Application Home Page PIM Functionality " finished-at="2024-02-13T20:54:43 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimTest -->
+        <test-method signature="pimAddEmployeeTest()[pri:5, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:43 IST" name="pimAddEmployeeTest" description="Validating OrangeHRM Application Home Page PIM - AddEmployee Functionality " finished-at="2024-02-13T20:54:44 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimAddEmployeeTest -->
+        <test-method signature="AddEmployeeWebPageTest()[pri:6, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:44 IST" name="AddEmployeeWebPageTest" description="Validating OrangeHRM Application AddEmployee WebPage Test " finished-at="2024-02-13T20:54:44 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeWebPageTest -->
+        <test-method signature="AddEmployeeTest()[pri:7, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:44 IST" name="AddEmployeeTest" description="Validating OrangeHRM Application AddEmployee Functionality  Test " finished-at="2024-02-13T20:54:56 IST" duration-ms="12385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeTest -->
+        <test-method signature="AddEmployee_TestFileds()[pri:8, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:56 IST" name="AddEmployee_TestFileds" description="Validating OrangeHRM Application Add Employee WebPage Test Data Fileds  Test " finished-at="2024-02-13T20:54:56 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee_TestFileds -->
+        <test-method signature="personalDetailsWebPageTest()[pri:9, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:56 IST" name="personalDetailsWebPageTest" description="Validating OrangeHRM Application Personal Details WebPage  Test " finished-at="2024-02-13T20:54:56 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalDetailsWebPageTest -->
+        <test-method signature="personalDetailsTest()[pri:10, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:56 IST" name="personalDetailsTest" description="Validating OrangeHRM Application Personal Details Functionality Test " finished-at="2024-02-13T20:54:57 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalDetailsTest -->
+        <test-method signature="Homepage_WelcomeAdmin()[pri:11, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:57 IST" name="Homepage_WelcomeAdmin" description="Validating OrangeHRM Application Welcome Admin Functionality property" finished-at="2024-02-13T20:54:59 IST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage_WelcomeAdmin -->
+        <test-method signature="logInPage()[pri:12, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:54:59 IST" name="logInPage" description="Validating OrangeHRM Application After click on LogOut the current webpage " finished-at="2024-02-13T20:55:05 IST" duration-ms="5555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInPage -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]" started-at="2024-02-13T20:55:05 IST" name="applicationClose" finished-at="2024-02-13T20:55:06 IST" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplication_AutoIT_excel -->
+    </test> <!-- OrangeHRMApplication_AutoIT_excel -->
+  </suite> <!-- OrangeHRMApplication -->
+</testng-results>

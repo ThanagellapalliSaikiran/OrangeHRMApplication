@@ -1,0 +1,50 @@
+2024-02-17 17:24:28,919 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:24:30,183 - log -INFO -  The Expected Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:24:30,227 - log -INFO -  The Actual Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:24:30,231 - log -INFO -  LogIn Pannel Text Validation Successful - PASS
+2024-02-17 17:24:31,153 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:24:32,587 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:24:33,602 - log -INFO -  OrangeHRM Applicaiton LogIn page Logo found - PASS 
+2024-02-17 17:24:34,495 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:24:35,880 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:24:39,445 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:27:59,647 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:28:00,556 - log -INFO -  The Expected Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:28:00,600 - log -INFO -  The Actual Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:28:00,606 - log -INFO -  LogIn Pannel Text Validation Successful - PASS
+2024-02-17 17:28:01,455 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:28:02,863 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:28:03,755 - log -INFO -  OrangeHRM Applicaiton LogIn page Logo found - PASS 
+2024-02-17 17:28:04,615 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:28:06,013 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:28:09,678 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:47:54,886 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:47:55,675 - log -INFO -  The Expected Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:47:55,720 - log -INFO -  The Actual Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:47:55,724 - log -INFO -  LogIn Pannel Text Validation Successful - PASS
+2024-02-17 17:47:56,517 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:47:57,875 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:47:58,582 - log -INFO -  OrangeHRM Applicaiton LogIn page Logo found - PASS 
+2024-02-17 17:47:59,391 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:48:00,690 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:48:06,359 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:49:17,421 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:49:18,008 - log -INFO -  The Expected Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:49:18,050 - log -INFO -  The Actual Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:49:18,054 - log -INFO -  LogIn Pannel Text Validation Successful - PASS
+2024-02-17 17:49:18,827 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:49:20,096 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:49:20,730 - log -INFO -  OrangeHRM Applicaiton LogIn page Logo found - PASS 
+2024-02-17 17:49:21,474 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:49:22,782 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:49:24,198 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:51:18,749 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:51:19,565 - log -INFO -  The Expected Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:51:19,612 - log -INFO -  The Actual Text of the WebElement LogIn Pannel is :- LOGIN Panel
+2024-02-17 17:51:19,617 - log -INFO -  LogIn Pannel Text Validation Successful - PASS
+2024-02-17 17:51:20,381 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:51:21,706 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:51:22,460 - log -INFO -  OrangeHRM Applicaiton LogIn page Logo found - PASS 
+2024-02-17 17:51:23,293 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********
+2024-02-17 17:51:24,577 - log -INFO - **** Chrome Browser Launched Successfully **********
+2024-02-17 17:51:27,830 - log -INFO -  ************ Chrome Browser along with OrangeHRM Application Closed Successfully ********

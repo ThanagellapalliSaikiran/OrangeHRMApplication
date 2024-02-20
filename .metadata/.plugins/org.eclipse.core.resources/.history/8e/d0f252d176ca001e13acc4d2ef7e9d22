@@ -1,0 +1,44 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>OrangeHRMApplication</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:06</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.AddEmployeeTest()[pri:7, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">AddEmployeeTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:06</td>   <td>-20</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.AddEmployeeWebPageTest()[pri:6, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">AddEmployeeWebPageTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:20</td>   <td>13997</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.AddEmployee_TestFileds()[pri:8, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">AddEmployee_TestFileds</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:21</td>   <td>14210</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.Homepage_WelcomeAdmin()[pri:11, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">Homepage_WelcomeAdmin</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="8ef0ea">  <td>24/02/13 19:19:10</td>   <td>3256</td> <td>&nbsp;</td><td title="&lt;&lt;BaseTest.applicationClose()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">&lt;&lt;applicationClose</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="9b60e0">  <td>24/02/13 19:19:29</td>   <td>22293</td> <td>&nbsp;</td><td title="&lt;&lt;Baseclass.applicationClose()[pri:0, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">&lt;&lt;applicationClose</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="8ef0ea">  <td>24/02/13 19:18:57</td>   <td>-9237</td> <td>&nbsp;</td><td title="&gt;&gt;BaseTest.applicationLaunch()[pri:0, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">&gt;&gt;applicationLaunch</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="9b60e0">  <td>24/02/13 19:18:57</td>   <td>-9237</td> <td>&nbsp;</td><td title="&gt;&gt;Baseclass.applicationLaunch()[pri:0, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">&gt;&gt;applicationLaunch</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:19:03</td>   <td>-3054</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.homePageTest()[pri:3, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">homePageTest</td> 
+  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:05</td>   <td>-932</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.homePageTest()[pri:3, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">homePageTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:23</td>   <td>17093</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.logInPage()[pri:12, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">logInPage</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:19:01</td>   <td>-5716</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logInPageTest()[pri:1, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">logInPageTest</td> 
+  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:01</td>   <td>-5721</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.logInPageTest()[pri:1, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">logInPageTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:19:01</td>   <td>-5619</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logInTest()[pri:2, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">logInTest</td> 
+  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:01</td>   <td>-5030</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.logInTest()[pri:2, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">logInTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="86b9e3">  <td>24/02/13 19:19:04</td>   <td>-2725</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LogInTest.logOutTest()[pri:4, instance:com.OrangeHRMApplication_TestNG.LogInTest@e15b7e8]">logOutTest</td> 
+  <td>TestNG-tests-1@2043029874</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:21</td>   <td>14159</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.personalDetailsTest()[pri:10, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">personalDetailsTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:20</td>   <td>14025</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.personalDetailsWebPageTest()[pri:9, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">personalDetailsWebPageTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:06</td>   <td>-586</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.pimAddEmployeeTest()[pri:5, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">pimAddEmployeeTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+<tr bgcolor="fd8ccd">  <td>24/02/13 19:19:06</td>   <td>-785</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="OrangeHRMApplication_AutoIT_excel.pimTest()[pri:4, instance:com.OrangeHRMApplication_AutoIT_excel@242b836]">pimTest</td> 
+  <td>TestNG-tests-2@3254721</td>   <td></td> </tr>
+</table>

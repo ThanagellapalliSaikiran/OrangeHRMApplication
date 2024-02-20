@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T17:51:16 IST" name="Default suite" finished-at="2024-02-17T17:51:27 IST" duration-ms="10917">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T17:51:16 IST" name="Default test" finished-at="2024-02-17T17:51:27 IST" duration-ms="10917">
+      <class name="com.OrangeHRMApplicationPagesTests.LogInPageTest">
+        <test-method is-config="true" signature="applicationLanch()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:16 IST" name="applicationLanch" finished-at="2024-02-17T17:51:19 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLanch -->
+        <test-method signature="orangeHRMApplicationLogInPage_logInPannelTextTest()[pri:1, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:19 IST" name="orangeHRMApplicationLogInPage_logInPannelTextTest" description=" Validating OrangeHRM Application LogIN Page Text" finished-at="2024-02-17T17:51:19 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMApplicationLogInPage_logInPannelTextTest -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:19 IST" name="applicationClose" finished-at="2024-02-17T17:51:20 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+        <test-method is-config="true" signature="applicationLanch()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:20 IST" name="applicationLanch" finished-at="2024-02-17T17:51:22 IST" duration-ms="1988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLanch -->
+        <test-method signature="orangeHRMApplicationLogInPage_LogoValidationTest()[pri:2, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:22 IST" name="orangeHRMApplicationLogInPage_LogoValidationTest" description=" Validating OrangeHRM Applicaiton LogIn Page Logo " finished-at="2024-02-17T17:51:22 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMApplicationLogInPage_LogoValidationTest -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:22 IST" name="applicationClose" finished-at="2024-02-17T17:51:23 IST" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+        <test-method is-config="true" signature="applicationLanch()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:23 IST" name="applicationLanch" finished-at="2024-02-17T17:51:25 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLanch -->
+        <test-method signature="orangeHRMApplicationLogInPage_LogInTest()[pri:3, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:25 IST" name="orangeHRMApplicationLogInPage_LogInTest" description=" Validating OrangeHRM Applicaiton LogIn Functionality " finished-at="2024-02-17T17:51:27 IST" duration-ms="1846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMApplicationLogInPage_LogInTest -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationPagesTests.LogInPageTest@53fe15ff]" started-at="2024-02-17T17:51:27 IST" name="applicationClose" finished-at="2024-02-17T17:51:27 IST" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplicationPagesTests.LogInPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" parallel="tests" name="OrangeHRMApplication_AutoIT_excel(failed)">
+    <classes>
+      <class name="com.OrangeHRMApplication_AutoIT_excel">
+        <methods>
+          <include name="personalDetailsWebPageTest"/>
+          <include name="personalDetailsTest"/>
+          <include name="applicationLaunch"/>
+          <include name="pimAddEmployeeTest"/>
+          <include name="AddEmployeeTest"/>
+          <include name="applicationClose"/>
+          <include name="AddEmployee_TestFileds"/>
+        </methods>
+      </class> <!-- com.OrangeHRMApplication_AutoIT_excel -->
+    </classes>
+  </test> <!-- OrangeHRMApplication_AutoIT_excel(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

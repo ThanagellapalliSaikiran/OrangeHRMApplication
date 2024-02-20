@@ -1,0 +1,17 @@
+<suite name="OrangeHRMApplication" parallel="tests">
+   
+    <test name="OrangeHRM_Properties">
+        <classes>
+           <class name="com.config.OrangeHRM_Properties"/>
+        </classes>
+   </test>
+   
+   
+   <test name="OrangeHRMApplication_AutoIT_excel">
+        <classes>
+           <class name="com.OrangeEmployeeId.OrangeHRMApplication_AutoIT_excel"/>
+        </classes>
+   </test>
+   
+   
+</suite>
